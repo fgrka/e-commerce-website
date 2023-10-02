@@ -1,6 +1,6 @@
 # E-Commerce :herb: Website with Firebase Authentication 
 
-This project features a dynamic e-commerce website with a shopping cart and Firebase user authentication. The website is built using Vite.
+Simple e-commerce website with a shopping cart and Firebase user authentication. The website is built using Vite.
 
 ## Key Features:
 * Product Management: Display products, add them to the cart, and manage quantities.
