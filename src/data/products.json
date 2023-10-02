@@ -1,0 +1,85 @@
+    [{
+        "id": "01",
+        "name": "Alokazja Mini",
+        "price": "239.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "02",
+        "name": "Aglaonema Variegata",
+        "price": "18.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "03",
+        "name": "Epipremnum",
+        "price": "102.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "04",
+        "name": "Filodendron",
+        "price": "58.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "05",
+        "name": "Aglaonema Snow White",
+        "price": "25.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "06",
+        "name": "Alokazja XXL",
+        "price": "32.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "07",
+        "name": "Calathea",
+        "price": "239.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "08",
+        "name": "Hoya Globulosa",
+        "price": "18.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "09",
+        "name": "Scindapsus Moonlight",
+        "price": "102.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "10",
+        "name": "Hoya Carnosa Ghost",
+        "price": "58.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "11",
+        "name": "Hoya Kalimantan",
+        "price": "25.90",
+        "img": "../src/img/product01.jpg"
+    },
+
+    {
+        "id": "12",
+        "name": "Araucaria",
+        "price": "32.90",
+        "img": "../src/img/product01.jpg"
+    }
+]
+
